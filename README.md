@@ -6,6 +6,10 @@ class User {
 }
 ```
 [![Java](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://www.iteye.com)
+
+
+<img src="https://github.com/KelvinFly/ios-ranking/blob/master/author_logo.jpeg">
+
 ###Content
 
 - [Getting Started](#getting-started)
