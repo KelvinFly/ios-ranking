@@ -5,3 +5,8 @@ class User {
 	private String java;
 }
 ```
+[![Java](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://www.iteye.com)
+###Content
+
+- [Getting Started](#getting-started)
+	- [Animation](#animation)
